@@ -30,7 +30,7 @@ namespace SizeCalc
 
         private void label2_Click(object sender, EventArgs e)
         {
-            label1.Text = "AHAHAHAHAHAh";
+            label1.Text = "NAHAHAHAHAHAh";
         }
     }
 }
